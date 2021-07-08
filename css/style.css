@@ -63,7 +63,7 @@ i.glyphicon.glyphicon-menu-hamburger {
 	margin-top: 10em;	
 }
 .banner h4 {
-    color:#97824B;
+    color:#1da748;
     font-size: 3em;
     border: 2px solid #fff;
     padding: 1em;
@@ -216,11 +216,11 @@ i.glyphicon.glyphicon-menu-hamburger {
     vertical-align: middle;
     content: "";
     margin: 0 1%;
-    background-color: #97824b;
+    background-color: #1da748;
 }
 .content-left i{
 	font-size:1em;
-	color:#97824b;
+	color:#1da748;
 }
 /*--service--*/
 .services-top {
@@ -377,7 +377,7 @@ ul.grid-news li b {
   background: url(../images/ne3.jpg) no-repeat;
 }
 .content-item .overlay {
-  border-bottom: 100px solid #97824b;
+  border-bottom: 100px solid #1da748;
   border-left: 100px solid transparent;
   bottom: 0;
   height: 0;
@@ -392,7 +392,7 @@ ul.grid-news li b {
   width: 0;
 }
 .content-item:hover .overlay {
-  border-bottom: 800px solid #97824b;
+  border-bottom: 800px solid #1da748;
   border-left: 800px solid transparent;
   -moz-transition: all 0.5s ease-out;
   -o-transition: all 0.5s ease-out;
@@ -416,7 +416,7 @@ ul.in li a {
     display: block;
 }
 ul.in li a:hover {
-    color: #97824b;
+    color: #1da748;
 }
 .footer-top span{
 	font-size: 2em;
@@ -441,7 +441,7 @@ p.footer-class{
 }
 p.footer-class a{
 	text-decoration:none;
-	color:#97824B;	
+	color:#1da748;	
 }
 p.footer-class a:hover{
 	color:#fff;	
@@ -470,11 +470,11 @@ p.footer-class a:hover{
     vertical-align: middle;
     content: "";
     margin: 0 1%;
-    background-color: #97824b;
+    background-color: #1da748;
 }
 .footer-bottom i {
     font-size: 1em;
-    color: #97824b;
+    color: #1da748;
 }
 /*----*/
 .social-ic li{
@@ -491,34 +491,34 @@ p.footer-class a:hover{
 	-o-transition: 0.5s all;
 	-moz-transition: 0.5s all;
 	-ms-transition: 0.5s all;
-	    border:3px double #97824b;
+	    border:3px double #1da748;
 }
 .social-ic li a i:hover {
-	background: #97824b url(../images/img-sprite.png)no-repeat 0px 2px;
+	background: #1da748 url(../images/img-sprite.png)no-repeat 0px 2px;
 }
 .social-ic li a i.ic {
 	background: url(../images/img-sprite.png)no-repeat -75px 2px;
 }
 .social-ic li a i.ic:hover {
-	background: #97824b url(../images/img-sprite.png)no-repeat -75px 2px;
+	background: #1da748 url(../images/img-sprite.png)no-repeat -75px 2px;
 }
 .social-ic li a i.ic1 {
 	background: url(../images/img-sprite.png)no-repeat -145px 2px;
 }
 .social-ic li a i.ic1:hover {
-	background: #97824b url(../images/img-sprite.png)no-repeat -145px 2px;
+	background: #1da748 url(../images/img-sprite.png)no-repeat -145px 2px;
 }
 .social-ic li a i.ic2 {
 	background: url(../images/img-sprite.png)no-repeat -229px 2px;
 }
 .social-ic li a i.ic2:hover {
-	background: #97824b url(../images/img-sprite.png)no-repeat -229px 2px;
+	background: #1da748 url(../images/img-sprite.png)no-repeat -229px 2px;
 }
 .social-ic li a i.ic3 {
 	background: url(../images/img-sprite.png)no-repeat -305px 2px;
 }
 .social-ic li a i.ic3:hover {
-	background: #97824b url(../images/img-sprite.png)no-repeat -305px 2px;
+	background: #1da748 url(../images/img-sprite.png)no-repeat -305px 2px;
 }
 /*--//footer--*/
 /*--about--*/
@@ -548,11 +548,11 @@ p.footer-class a:hover{
     vertical-align: middle;
     content: "";
     margin: 0 1%;
-    background-color: #97824b;
+    background-color: #1da748;
 }
 .events-left i{
 	font-size:1em;
-	color:#97824b;
+	color:#1da748;
 }
 .events-bottom1 {
     padding: 0;
@@ -578,11 +578,11 @@ p.footer-class a:hover{
     vertical-align: middle;
     content: "";
     margin: 0 1%;
-    background-color: #97824b;
+    background-color: #1da748;
 }
 .events-bottom2 label i {
     font-size: 1em;
-    color: #97824b;
+    color: #1da748;
 }
 .events-bottom2 p {
     font-size: 1.15em;
@@ -621,7 +621,7 @@ p.footer-class a:hover{
     margin:0 0 1em;
     font-weight: 700;
     font-size: 1.4em;
-    color: #97824b;
+    color: #1da748;
     font-family: 'Raleway', sans-serif;
 }
 p.your-para{
@@ -681,7 +681,7 @@ p.msg-para{
 	margin:0 1em 0.6em;
 }
 .contact-para input[type="submit"]:hover{
-	background: #97824b;
+	background: #1da748;
 }
 .send {
 	padding: 1em 1em 0;
@@ -698,7 +698,7 @@ p.msg-para{
 .address h4 {
     font-weight: 700;
     font-size: 1.4em;
-    color: #97824b;
+    color: #1da748;
     font-family: 'Raleway', sans-serif;
 	    margin: 1em 0 0.2em;
 }
@@ -723,7 +723,7 @@ p.msg-para{
     font-weight: 700;
 }
 .blog-grid h3 a{
-	color:#97824b;
+	color:#1da748;
 	text-decoration:none;
 }
 .blog-grid p{
@@ -798,7 +798,7 @@ i.glyphicon.glyphicon-comment {
 	height: 100%;
 	width: 100%;
 	border-width: 2px 0;
-	border-color: #97824b;
+	border-color: #1da748;
 	border-style: solid;
 	left: 0;
 	-webkit-transform: translate3d(-101%,0,0);
@@ -822,7 +822,7 @@ i.glyphicon.glyphicon-comment {
 }
 
 .link-yaku:hover span {
-	color: #97824b;
+	color: #1da748;
 	-webkit-transform: perspective(1000px) rotate3d(0,1,0,360deg);
 	transform: perspective(1000px) rotate3d(0,1,0,360deg);
 }
@@ -885,18 +885,18 @@ ul.grid-blog li a, ul.grid-blog li span{
 	margin: 0 1em 0 0;
 }
 ul.grid-blog li a:hover{
-    color: #97824B;
+    color: #1da748;
 }
 ul.grid-blog li i{
 	margin: 0 5px 0 0;
-	color:#97824B;	
+	color:#1da748;	
 }
 ul.grid-blog {
 	 padding: 1.5em 0;
 }
 .comment h3{
 	font-size: 2.5em;
-    color: #97824B;
+    color: #1da748;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
 }
@@ -911,7 +911,7 @@ ul.grid-blog {
 }
 .leave h3{
 	    font-size: 2.5em;
-    color: #97824B;
+    color: #1da748;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
 }
@@ -958,7 +958,7 @@ ul.grid-blog {
     -moz-transition: 0.5s all;
 }
 .single-grid input[type="submit"]:hover {
-    background: #97824B;
+    background: #1da748;
 }
 .media {
     margin-top: 25px;
@@ -1003,7 +1003,7 @@ p.reply a i{
 }
 .media-left img{
 	 border-radius: 100px;
-    border: 2px dashed #97824B;
+    border: 2px dashed #1da748;
 }
 .media-1{
 	padding-left:7em;
@@ -1068,7 +1068,7 @@ a.fashion {
 }
 a.elit{
 	font-size: 1em;
-    color: #97824B;
+    color: #1da748;
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
@@ -1143,11 +1143,11 @@ ul.start li span{
     vertical-align: middle;
     content: "";
     margin: 0 1%;
-    background-color: #97824b;
+    background-color: #1da748;
 }
 .menu-left i{
 	font-size:1em;
-	color:#97824b;
+	color:#1da748;
 }
 .btm-right {
   overflow: hidden;
@@ -1164,7 +1164,7 @@ ul.start li span{
     position: absolute;
     bottom: -68%;
     right: 0;
-    background-color:#97824b;
+    background-color:#1da748;
     text-align: center;
     -o-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -1204,7 +1204,7 @@ ul.start li span{
     margin-left: 0;
     width: 0;
     height: 0;
-    border-bottom: 32px solid #97824b;
+    border-bottom: 32px solid #1da748;
     border-right: 30px solid transparent;
     border-left: 30px solid transparent;
 }

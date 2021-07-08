@@ -108,8 +108,8 @@ body{
 .toggle-menu li a span { text-transform: lowercase; }
 
 .toggle-menu li a:hover,.toggle-menu li a.active {
-  color:#97824B;
-  border-bottom: 2px solid #97824B;
+  color:#1da748;
+  border-bottom: 2px solid #1da748;
   -webkit-transition: linear 0.5s all;
   transition: linear 0.5s all;
   -webkit-transform: scale(1.15);
